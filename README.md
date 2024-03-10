@@ -1,4 +1,4 @@
-# gramoty-api
+# GramotyApi
 
 ### Installing
 ```
