@@ -7,7 +7,7 @@
 
 ### Example
 ```py
-from gramoty import *
+from GramotyApi import *
 
 
 def main():
